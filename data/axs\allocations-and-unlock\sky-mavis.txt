@@ -1,0 +1,118 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Sky Mavis",
+    "info": "Sky Mavis is the team behind Axie Infinity and should remain incentivized to keep building after a successful token sale. By locking up the majority of the allocated supply the team, community and investors have aligned incentives.",
+    "links": [
+        []
+    ],
+    "table": [
+        {
+            "table_topic": "Overview",
+            "table_header": [
+                "Token Amount",
+                "% of total supply",
+                "Unlock schedule"
+            ],
+            "table_data": [
+                [
+                    "56,700,000",
+                    "21%",
+                    "Gradual over 4.5 years"
+                ]
+            ]
+        },
+        {
+            "table_topic": "Detailed unlock schedule",
+            "table_header": [
+                "Date",
+                "Tokens unlocked"
+            ],
+            "table_data": [
+                [
+                    "Day 0",
+                    "10,800,000"
+                ],
+                [
+                    "Month 3",
+                    "0"
+                ],
+                [
+                    "Month 6",
+                    "0"
+                ],
+                [
+                    "Month 9",
+                    "0"
+                ],
+                [
+                    "Month 12",
+                    "5,737,500"
+                ],
+                [
+                    "Month 15",
+                    "0"
+                ],
+                [
+                    "Month 18",
+                    "5,737,500"
+                ],
+                [
+                    "Month 21",
+                    "0"
+                ],
+                [
+                    "Month 24",
+                    "5,737,500"
+                ],
+                [
+                    "Month 27",
+                    "0"
+                ],
+                [
+                    "Month 30",
+                    "5,737,500"
+                ],
+                [
+                    "Month 33",
+                    "0"
+                ],
+                [
+                    "Month 36",
+                    "5,737,500"
+                ],
+                [
+                    "Month 39",
+                    "0"
+                ],
+                [
+                    "Month 42",
+                    "5,737,500"
+                ],
+                [
+                    "Month 45",
+                    "0"
+                ],
+                [
+                    "Month 48",
+                    "5,737,500"
+                ],
+                [
+                    "Month 51",
+                    "0"
+                ],
+                [
+                    "Month 54",
+                    "5,737,500"
+                ]
+            ]
+        }
+    ],
+    "contents": [
+        {
+            "sub_title": [],
+            "sub_info": [],
+            "sub_links": [],
+            "sub_table": []
+        }
+    ]
+}

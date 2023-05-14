@@ -1,0 +1,17 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Partners",
+    "info": [],
+    "links": [
+        []
+    ],
+    "table": [],
+    "contents": [
+        {
+            "sub_title": [],
+            "sub_info": [],
+            "sub_links": [],
+            "sub_table": []
+        }
+    ]
+}

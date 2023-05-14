@@ -1,0 +1,19 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Technology",
+    "info": "Our engineering team is made up of top technical talent from Vietnam. Many of our team members met through competitive coding competitions and hackathons such as the International Collegiate Programming Contest (ICPC). Our team members are thought leaders in Vietnam's Rust community and have presented their findings to the broader community in various tech talks.",
+    "links": [
+        "https://www.youtube.com/channel/UCAzvidgxrfrENxkyMOqW2KQ"
+    ],
+    "table": [],
+    "contents": [
+        {
+            "sub_title": "Decentralization and Blockchain",
+            "sub_info": "We initially chose Ethereum back in 2018 due to the number of developers building on the platform, and the ability to recruit initial community members. As time passed it became clear that building a blockchain game solely on Ethereum would not be feasible from a scalability standpoint. We have learned that while our users care about blockchain technology they are focused on the benefits it can bring, rather than decentralizing too many features. As long as we provide a tamper-evident distributed ledger that ensures scarcity and allows our players to own and trade their assets it will be enough, for now. The mechanics of Play to Earn do not require a fully decentralized public blockchain. We believe that part of the ethos of web 3 is the idea of users being rewarded for the value that they bring to applications and this is what we choose to focus on with Axie.",
+            "sub_links": [
+                []
+            ],
+            "sub_table": []
+        }
+    ]
+}

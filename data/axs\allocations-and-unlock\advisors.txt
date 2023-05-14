@@ -1,0 +1,108 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Advisors",
+    "info": [],
+    "links": [
+        []
+    ],
+    "table": [
+        {
+            "table_topic": "Overview",
+            "table_header": [
+                "Token Amount",
+                "% of total supply",
+                "Unlock schedule"
+            ],
+            "table_data": [
+                [
+                    "18,900,000",
+                    "7%",
+                    "Gradual over 4 years"
+                ]
+            ]
+        },
+        {
+            "table_topic": "Detailed unlock schedule",
+            "table_header": [
+                "Issuance date",
+                "Advisors"
+            ],
+            "table_data": [
+                [
+                    "Day 0",
+                    "4,500,000"
+                ],
+                [
+                    "Month 3",
+                    []
+                ],
+                [
+                    "Month 6",
+                    "1,800,000"
+                ],
+                [
+                    "Month 9",
+                    []
+                ],
+                [
+                    "Month 12",
+                    "2,700,000"
+                ],
+                [
+                    "Month 15",
+                    []
+                ],
+                [
+                    "Month 18",
+                    "2,700,000"
+                ],
+                [
+                    "Month 21",
+                    []
+                ],
+                [
+                    "Month 24",
+                    "2,700,000"
+                ],
+                [
+                    "Month 27",
+                    []
+                ],
+                [
+                    "Month 30",
+                    "2,700,000"
+                ],
+                [
+                    "Month 33",
+                    []
+                ],
+                [
+                    "Month 36",
+                    "900,000"
+                ],
+                [
+                    "Month 39",
+                    []
+                ],
+                [
+                    "Month 42",
+                    "900,000"
+                ]
+            ]
+        }
+    ],
+    "contents": [
+        {
+            "sub_title": "Advisors",
+            "sub_info": "Hashed ​ https://www.hashed.com/ ​ Delphi Digital ​ https://www.delphidigital.io/ ​ Edward Lee Lee Blackwing Intelligence, Security researcer ​ https://www.linkedin.com/in/eddie-lee-b41b17/ ​ Sebastièn Borget The Sandbox, COO and Co-Founder ​ https://www.linkedin.com/in/borgetsebastien/ ​ Binance ​ https://www.Binance.com ​ Hashed ​ https://www.hashed.com/ ​ ​ https://www.hashed.com/ ​ ​ https://www.hashed.com/ ​ Delphi Digital ​ https://www.delphidigital.io/ ​ ​ https://www.delphidigital.io/ ​ ​ https://www.delphidigital.io/ ​ Edward Lee Lee Blackwing Intelligence, Security researcer ​ https://www.linkedin.com/in/eddie-lee-b41b17/ ​ Blackwing Intelligence, Security researcer ​ https://www.linkedin.com/in/eddie-lee-b41b17/ ​ Blackwing Intelligence, Security researcer ​ https://www.linkedin.com/in/eddie-lee-b41b17/ ​ Sebastièn Borget The Sandbox, COO and Co-Founder ​ https://www.linkedin.com/in/borgetsebastien/ ​ The Sandbox, COO and Co-Founder ​ https://www.linkedin.com/in/borgetsebastien/ ​ The Sandbox, COO and Co-Founder ​ https://www.linkedin.com/in/borgetsebastien/ ​ Binance ​ https://www.Binance.com ​ ​ https://www.Binance.com ​ ​ https://www.Binance.com ​ ​",
+            "sub_links": [
+                "https://www.hashed.com/",
+                "https://www.delphidigital.io/",
+                "https://www.linkedin.com/in/eddie-lee-b41b17/",
+                "https://www.linkedin.com/in/borgetsebastien/",
+                "https://binance.co"
+            ],
+            "sub_table": []
+        }
+    ]
+}

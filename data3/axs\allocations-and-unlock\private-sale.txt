@@ -1,0 +1,78 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Private Sale",
+    "info": "Axie Infinity raised $864,000 in a private sale of AXS to strategic investors in the middle of 2020. These investors purchased AXS at a 20% discount. 20% of the private sale tokens will be unlocked during the AXS public sale. The rest of the private sale tokens will be unlocked quarterly over the next 2 years.",
+    "links": [
+        []
+    ],
+    "table": [
+        {
+            "table_topic": "Overview",
+            "table_header": [
+                "Token Amount",
+                "% of total supply",
+                "Unlock schedule"
+            ],
+            "table_data": [
+                [
+                    "10,800,000",
+                    "4%",
+                    "Quarterly over 2 years"
+                ]
+            ]
+        },
+        {
+            "table_topic": "Detailed unlock schedule",
+            "table_header": [
+                "Date",
+                "Tokens unlocked"
+            ],
+            "table_data": [
+                [
+                    "Day 0",
+                    "2,160,000"
+                ],
+                [
+                    "Month 3",
+                    "0"
+                ],
+                [
+                    "Month 6",
+                    "2,160,000"
+                ],
+                [
+                    "Month 9",
+                    "0"
+                ],
+                [
+                    "Month 12",
+                    "2,160,000"
+                ],
+                [
+                    "Month 15",
+                    "0"
+                ],
+                [
+                    "Month 18",
+                    "2,160,000"
+                ],
+                [
+                    "Month 21",
+                    "0"
+                ],
+                [
+                    "Month 24",
+                    "2,160,000"
+                ]
+            ]
+        }
+    ],
+    "contents": [
+        {
+            "sub_title": [],
+            "sub_info": [],
+            "sub_links": [],
+            "sub_table": []
+        }
+    ]
+}

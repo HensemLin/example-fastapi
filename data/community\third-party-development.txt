@@ -1,0 +1,21 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Third-party development",
+    "info": "We believe the Axie universe can be a powerful medium for attracting developers to blockchain technology and as a potential launchpad for Indie developers. To date, the Axie community has built a variety of tools and experiences such as: tools for appraising Axies. tools for enhanced market search. Small mini-games ‌ Community websites to aggregate useful info like: tools for appraising Axies. tools for enhanced market search. Small mini-games ‌ Community websites to aggregate useful info like: ​ ​",
+    "links": [
+        "https://www.axie.tech/",
+        "https://axieworld.com/",
+        "https://axie.zone/",
+        "https://freakitties.github.io/axie/",
+        "https://axieedge.com/"
+    ],
+    "table": [],
+    "contents": [
+        {
+            "sub_title": [],
+            "sub_info": [],
+            "sub_links": [],
+            "sub_table": []
+        }
+    ]
+}

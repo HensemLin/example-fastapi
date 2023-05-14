@@ -1,0 +1,52 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Axie Infinity: Raylights",
+    "info": "Axie Infinity: Raylights is our first-ever land mini-game, and is currently accessible to all landowners. Sow minerals, grow plants, and cultivate the most beautiful land plot in Lunacia. Progress will unlock new ingredients, secret recipes, and aesthetics for your land! Raylights demonstrates how your Axie NFTs can be used as the base layer asset that unlocks new experiences over time. In a time where the purpose and use of Web3 technology is being shaped for future generations, we fully intend on making our products shining maps to the future. Raylights was officially announced at AxieCon , and was developed in collaboration with Quicksave Interactive - a team of experienced game developers from Finland. ​ Start playing now directly from your browser, no download required!",
+    "links": [
+        "https://youtu.be/iD5DG5dhSm8",
+        "https://app.axieinfinity.com/games/raylights/"
+    ],
+    "table": [],
+    "contents": [
+        {
+            "sub_title": "Gameplay",
+            "sub_info": "Axie Infinity: Raylights starts at the dawn of axie civilization on Lunacia. As newly formed beings, the Axies in Raylights have to discover the farming and growing techniques needed to build Lunacia into a true homeland. Raylight’s gameplay centers around sowing minerals beneath your land to grow and unlock various recipes and plants! As you progress and experiment with different combinations of mineral inputs, you’ll unlock new layers to sow minerals and new recipes and codes! Who will be the first to complete the Archive of Raylights? We envision Raylights as a peaceful, social experience that allows landholders to cultivate and pursue the perfect aesthetic for their plots. Plants are grown by sowing minerals through the seedling nursery. Simply drag and drop the mineral that you want to place on the ground layers to the ‘Add mineral’ box. After a combination of minerals has been added, drag an Axie into the “Add Axie” box and press the grow button! You’ll see a time–sit back and wait for your plant to appear! The plant will then go into the “Items” tab where you’ll be able to drag it onto your plot. Minerals are used to conduct research through the Seedling Nursery. Currently, there are 10 types of minerals in the game: Edenite Aqua Beastium Serpentine Amber Aerium Mechanium Solar Obsidian Citrine Edenite Aqua Beastium Serpentine Amber Aerium Mechanium Solar Obsidian Citrine When you first start in the game, you have access to 3 minerals – Edenite, Aqua and Beastium. To unlock more minerals you will need to clear in-game missions! Different Mineral Codes unlock different plants although some common plants have multiple recipes, you can think of these plants as weeds. The sequence of the minerals placed matters and different Land rarities have different codes! A key aspect of Raylights is the pursuit of a perfectly aesthetic plot.",
+            "sub_links": [
+                []
+            ],
+            "sub_table": []
+        },
+        {
+            "sub_title": "Cultivate Your Land",
+            "sub_info": "Axie Infinity: Raylights starts at the dawn of axie civilization on Lunacia. As newly formed beings, the Axies in Raylights have to discover the farming and growing techniques needed to build Lunacia into a true homeland. Raylight’s gameplay centers around sowing minerals beneath your land to grow and unlock various recipes and plants! As you progress and experiment with different combinations of mineral inputs, you’ll unlock new layers to sow minerals and new recipes and codes! Who will be the first to complete the Archive of Raylights? We envision Raylights as a peaceful, social experience that allows landholders to cultivate and pursue the perfect aesthetic for their plots.",
+            "sub_links": [
+                []
+            ],
+            "sub_table": []
+        },
+        {
+            "sub_title": "Seedling Nursery",
+            "sub_info": "Plants are grown by sowing minerals through the seedling nursery. Simply drag and drop the mineral that you want to place on the ground layers to the ‘Add mineral’ box. After a combination of minerals has been added, drag an Axie into the “Add Axie” box and press the grow button! You’ll see a time–sit back and wait for your plant to appear! The plant will then go into the “Items” tab where you’ll be able to drag it onto your plot.",
+            "sub_links": [
+                []
+            ],
+            "sub_table": []
+        },
+        {
+            "sub_title": "Minerals",
+            "sub_info": "Minerals are used to conduct research through the Seedling Nursery. Currently, there are 10 types of minerals in the game: Edenite Aqua Beastium Serpentine Amber Aerium Mechanium Solar Obsidian Citrine Edenite Aqua Beastium Serpentine Amber Aerium Mechanium Solar Obsidian Citrine When you first start in the game, you have access to 3 minerals – Edenite, Aqua and Beastium. To unlock more minerals you will need to clear in-game missions! Different Mineral Codes unlock different plants although some common plants have multiple recipes, you can think of these plants as weeds. The sequence of the minerals placed matters and different Land rarities have different codes! A key aspect of Raylights is the pursuit of a perfectly aesthetic plot. Raylights is still at an early stage and as always, we will build this experience alongside our community. Over time new features will be added that may include: Allowing non-landowners to access gameplay through landowners* Ability to mint certain crafted objects as NFTs Additional game mechanics that allow for crafting to be accelerated And more... Allowing non-landowners to access gameplay through landowners* Ability to mint certain crafted objects as NFTs Additional game mechanics that allow for crafting to be accelerated And more... Your feedback is very important to the development process of all Axie products and allows us to build alongside each of you. You can help us improve Raylights by filling out this feedback form. ​",
+            "sub_links": [
+                "https://skymavis.typeform.com/to/BO1u59nD"
+            ],
+            "sub_table": []
+        },
+        {
+            "sub_title": "Upcoming Features",
+            "sub_info": "Raylights is still at an early stage and as always, we will build this experience alongside our community. Over time new features will be added that may include: Allowing non-landowners to access gameplay through landowners* Ability to mint certain crafted objects as NFTs Additional game mechanics that allow for crafting to be accelerated And more... Allowing non-landowners to access gameplay through landowners* Ability to mint certain crafted objects as NFTs Additional game mechanics that allow for crafting to be accelerated And more... Your feedback is very important to the development process of all Axie products and allows us to build alongside each of you. You can help us improve Raylights by filling out this feedback form. ​",
+            "sub_links": [
+                "https://skymavis.typeform.com/to/BO1u59nD"
+            ],
+            "sub_table": []
+        }
+    ]
+}

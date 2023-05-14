@@ -1,0 +1,77 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Allocations and Unlock schedule",
+    "info": "AXS will be unlocked in a pre-determined schedule which lasts for 65 months from the public sale. The initial circulating supply is set to 59,985,000 AXS - 22.22% of the total supply. The above chart illustrates the maximum possible issuance of AXS over the coming years, and the total supply will never exceed 270,000,000 The expected issuance of AXS is expected to be slightly lower than the unlock schedule. The Play to Earn and Ecosystem fund allocations will not be issued until the game is ready for a growth phase even if the tokens are unlocked. Full schedule ​ ​",
+    "links": [
+        []
+    ],
+    "table": [
+        {
+            "table_topic": [],
+            "table_header": [
+                "Token amount",
+                "Total Supply",
+                "%",
+                []
+            ],
+            "table_data": [
+                [
+                    "Play and Earn",
+                    "54,000,000",
+                    "20%",
+                    "Locked: issuance starts in Q1-Q2 2021"
+                ],
+                [
+                    "Staking Rewards",
+                    "78,300,000",
+                    "29%",
+                    "Locked: Issuance starts in Q1-Q2 2021"
+                ],
+                [
+                    "Ecosystem Fund",
+                    "21,600,000",
+                    "8%",
+                    "Some unlocked, some locked"
+                ],
+                [
+                    "Sky Mavis",
+                    "56,700,000",
+                    "21%",
+                    "Some unlocked, some locked"
+                ],
+                [
+                    "Advisors",
+                    "18,900,000",
+                    "7%",
+                    "some unlocked, some locked"
+                ],
+                [
+                    "Public Sale",
+                    "29,700,000",
+                    "11%",
+                    "Unlocked"
+                ],
+                [
+                    "Private Sale",
+                    "10,800,000",
+                    "4%",
+                    "Some unlocked, some locked"
+                ],
+                [
+                    "Total amount ",
+                    "270,000,000",
+                    "100%",
+                    []
+                ]
+            ]
+        }
+    ],
+    "contents": [
+        {
+            "sub_title": [],
+            "sub_info": [],
+            "sub_links": [],
+            "sub_table": []
+        }
+    ]
+}

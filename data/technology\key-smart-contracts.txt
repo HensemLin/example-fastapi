@@ -1,0 +1,109 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Smart contracts and GitHub Repo",
+    "info": "The $AXS and $SLP ERC-20 contract has been audited by Quantstamp on April 25th 2021: Axie Infinity token - Final report Our most used smart contracts ​",
+    "links": [
+        "https://etherscan.io/token/0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+        "https://etherscan.io/address/0x47340deb65810a1f0d0b1EaE7489d1218c1c150F",
+        "https://etherscan.io/address/0xb28a3dd24036151c819c6d401f7a222d9aa3671b#analytics",
+        "https://etherscan.io/address/0x3d5be9a472d6b5c8d45b4b3a3bffb80e0c52ef15#analytics",
+        "https://etherscan.io/address/0xeba02cfc36c01acbe10f6bcb909b76749e54956a#analytics",
+        "https://etherscan.io/address/0x2299a91cc0bffd8c7f71349da8ab03527b79724f#analytics",
+        "https://etherscan.io/address/0x66536a95cc83ee672da58b6d3e57f7582184d5df#analytics",
+        "https://etherscan.io/address/0x7a11462a2adaed5571b91e34a127e4cbf51b152c#analytics",
+        "https://etherscan.io/address/0xf4985070ce32b6b1994329df787d1acc9a2dd9e2#analytics",
+        "https://etherscan.io/address/0x01aac5236ad205ebbe4f6819bc64ef5bef40b71c#analytics",
+        "https://etherscan.io/address/0x425372c0ac9d559a186a08a3854e0ddea1a00d5c#analytics",
+        "https://etherscan.io/token/0x37236cd05b34cc79d3715af2383e96dd7443dcf1#tokenAnalytics",
+        "https://github.com/axieinfinity",
+        "https://github.com/skymavis"
+    ],
+    "table": [
+        {
+            "table_topic": [],
+            "table_header": [
+                "Notes",
+                []
+            ],
+            "table_data": [
+                [
+                    "AXIE ERC721",
+                    "$AXIE contract - was deployed before ERC721 was standardized"
+                ],
+                [
+                    "Claim Reward",
+                    "Our players interact with this contract to claim tokenized rewards"
+                ],
+                [
+                    "Origin Axie sale #1",
+                    "Was used for the initial Origin Axie presale in 2018"
+                ],
+                [
+                    "Origin Axie sale #2",
+                    "Was used for the initial Origin Axie presale in 2018"
+                ],
+                [
+                    "MEO 1 Axie sale",
+                    "Was used for MEO Season 1 Axie sale in early 2018"
+                ],
+                [
+                    "Land sale #1",
+                    "Was used for Phase 1 of the Land sale early 2019"
+                ],
+                [
+                    "Land sale #2",
+                    "Was used for Phase 1 of the Land sale early 2019"
+                ],
+                [
+                    "Land sale #3",
+                    "Was used for Phase 1 of the Land sale early 2019"
+                ],
+                [
+                    "Marketplace contract",
+                    "Volume on our Ethereum marketplace"
+                ],
+                [
+                    "Loom marketplace contract",
+                    "Volume on our Loom Network marketplace"
+                ],
+                [
+                    "Breeding contract #1",
+                    "Was used to breed Axies until late 2019"
+                ],
+                [
+                    "Breeding contract #2",
+                    "Currently being used to breed Axies"
+                ],
+                [
+                    "Small Love Potion",
+                    "Small Love Potion"
+                ]
+            ]
+        },
+        {
+            "table_topic": [],
+            "table_header": [
+                "Github",
+                "Notes"
+            ],
+            "table_data": [
+                [
+                    "https://github.com/axieinfinity",
+                    "Axie Infinity main repo"
+                ],
+                [
+                    "https://github.com/skymavis",
+                    "Sky Mavis main repo"
+                ]
+            ]
+        }
+    ],
+    "contents": [
+        {
+            "sub_title": [],
+            "sub_info": [],
+            "sub_links": [],
+            "sub_table": []
+        }
+    ]
+}

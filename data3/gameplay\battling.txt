@@ -1,0 +1,17 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Battling",
+    "info": "In October 2018, the Axie core team released the first battle system built on top of the Axie game assets. The battle system was structured as an \"idle battle\" system with inspiration from games like \"Final Fantasy Tactics\" and \"Idle Heroes\". Classic, released in December 2019, grew the Axie community from a ragtag band of a few hundred missionaries to millions. The game is structured as a turn-based card battler where players create teams of Axies to duke it out in the arena. Axies draw cards based on the body parts they posses and you must play these cards at the optimal time and order to maximize your chance of victory. Classic was the first game ever to distribute in-game resources as ERC20 tokens. On April 6th, 2022, Axie Infinity: Origins was released in early access . Origins is an evolution of Axie's tactical card battler format. It introduces a real-time combat system, 3 free starter Axies, and vertical progression through Rune & Charm crafting. Origins features: Free starter Axies. Let your friends and family fall in love with Axie before needing to touch crypto and NFTs! Upgraded Axie art makes each Axie more visually distinct and special. Sequential turns for a faster, more dynamic experience. Energy / cards are reset each turn to encourage aggressive play-styles. Card changes. We’ve kept most cards in line with their original spirit. Eye & Ear Cards. This is the first time that eyes & ears have ever had cards! Runes / Charms as power-ups . Our first glimpse of Axie progression and upgrading is here! Critical Hits have been replaced by a Rage mechanic. Free starter Axies. Let your friends and family fall in love with Axie before needing to touch crypto and NFTs! Upgraded Axie art makes each Axie more visually distinct and special. Sequential turns for a faster, more dynamic experience. Energy / cards are reset each turn to encourage aggressive play-styles. Card changes. We’ve kept most cards in line with their original spirit. Eye & Ear Cards. This is the first time that eyes & ears have ever had cards! Runes / Charms as power-ups . Our first glimpse of Axie progression and upgrading is here! Critical Hits have been replaced by a Rage mechanic. Much like Pokemon has gone through numerous iterations and types of battle systems, we also expect Axie to have many variations of battles over the years to come. ​",
+    "links": [
+        "https://axie.substack.com/p/axieorigin?s=w"
+    ],
+    "table": [],
+    "contents": [
+        {
+            "sub_title": [],
+            "sub_info": [],
+            "sub_links": [],
+            "sub_table": []
+        }
+    ]
+}

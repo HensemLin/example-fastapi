@@ -1,0 +1,71 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Land",
+    "info": "Lunacia, the Axie homeland, is divided into tokenized plots of land which act as homes and bases of operation for their Axies. Plots can be upgraded over time using a variety of resources and crafting ingredients that can be found when playing the game. In addition, land-owners might find AXS tokens on their land plots, or use the Axies that occupy the land plot to explore resource nodes on the map. When interacting with resources nodes Axies can find AXS and potentially other resources. Resource Gathering and Crafting Resources will spawn in nodes across Lunacia and be used to upgrade both land and Axies. Landholders will have first rights to any resources that spawn on their land. Resources will spawn in nodes across Lunacia and be used to upgrade both land and Axies. Landholders will have first rights to any resources that spawn on their land. Real-Time PvE Battles Monsters called Chimera are terrorizing Lunacia. Players will be able to take on Chimera in real-time battles either alone or in groups. Chimera will drop an assortment of resources, items, and blueprints used to upgrade land and individual Axies. Additional details about land will be released in time. A plot owned and designed by cloudwhite The World Lunacia consists of 90,601 plots of Land. These Land plots are represented as Non-Fungible Tokens and can be freely traded by players. Land gameplay is still being actively developed and will be released in phases. Phase 1 of this experience will focus more upon simulation and land management (production, resource gathering, building, and trading). Phase 2 will build in additional management gameplay elements (such as skill trees, jobs, and social/cooperative activities). Phase 3 will focus more on group strategic gameplay (defend, battle, conquer). Throughout the continuous evolution of Lunacia, features will be added, and Axies will have an ever-expanding set of experiences they will encounter. However, between each event and game release phase, major events that affect all of Lunacia will occur, giving players a sense of progression at a world scale. Additional Resources ​ In December of 2020, we ran a 1 week land demo. ​ ​ Original land sale document. Please note that things may change from the original plan as we iterate based on feedback and new ideas. ​ ​ Land Dev Journal & Teaser (12/21) ​ ​ Land Presentation (4/22) ​ ",
+    "links": [
+        "https://axie.substack.com/p/project-k",
+        "https://medium.com/axie-infinity/everything-you-need-to-know-about-the-axie-infinity-land-sale-in-one-place-2e0a876b4512",
+        "https://axie.substack.com/p/landteaser",
+        "https://www.youtube.com/watch?v=7jG1CSuK3nY"
+    ],
+    "table": [
+        {
+            "table_topic": [],
+            "table_header": [
+                "Land Type",
+                "Player-owned",
+                "Total supply"
+            ],
+            "table_data": [
+                [
+                    "Savannah",
+                    "5327",
+                    "22042"
+                ],
+                [
+                    "Forest",
+                    "5359",
+                    "22025"
+                ],
+                [
+                    "Arctic",
+                    "4171",
+                    "16537"
+                ],
+                [
+                    "Mystic",
+                    "2309",
+                    "8264"
+                ],
+                [
+                    "Genesis",
+                    "75",
+                    "220"
+                ],
+                [
+                    "Lunas Landing (Center)",
+                    "0*",
+                    "3501"
+                ],
+                [
+                    "Map (water, roads, resource nodes)",
+                    "0",
+                    "18012"
+                ],
+                [
+                    "Total land",
+                    "17241",
+                    "90601"
+                ]
+            ]
+        }
+    ],
+    "contents": [
+        {
+            "sub_title": [],
+            "sub_info": [],
+            "sub_links": [],
+            "sub_table": []
+        }
+    ]
+}

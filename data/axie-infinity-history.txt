@@ -1,0 +1,18 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Key Metrics",
+    "info": "Dashboards created for Axie Infinity from 3rd party websites:",
+    "links": [
+        "https://dappradar.com/ethereum/games/axie-infinity",
+        "https://pro.nansen.ai/axie"
+    ],
+    "table": [],
+    "contents": [
+        {
+            "sub_title": [],
+            "sub_info": [],
+            "sub_links": [],
+            "sub_table": []
+        }
+    ]
+}

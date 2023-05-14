@@ -1,0 +1,110 @@
+{
+    "topic": "Axie Infinity",
+    "title": "Ecosystem Fund",
+    "info": "​ The ecosystem fund will initially be managed by the Sky Mavis core team, and its core purpose is to grow the Axie Infinity community. The principles for the fund are as follows: Clear value added to the broader Axie Infinity community KPIs and goals that unlock funds (if applicable) Clear value added to the broader Axie Infinity community KPIs and goals that unlock funds (if applicable) As time passes the ecosystem fund will be integrated into the DAO and stakers will be able to vote on who should receive funding. ​",
+    "links": [
+        []
+    ],
+    "table": [
+        {
+            "table_topic": "Overview",
+            "table_header": [
+                "Token Amount",
+                "% of total supply",
+                "Unlock schedule"
+            ],
+            "table_data": [
+                [
+                    "21,600,000",
+                    "8%",
+                    "Gradual over 4 years"
+                ]
+            ]
+        },
+        {
+            "table_topic": "Detailed unlock schedule",
+            "table_header": [
+                "Date",
+                "Tokens unlocked"
+            ],
+            "table_data": [
+                [
+                    "Day 0",
+                    "8,100,000"
+                ],
+                [
+                    "Month 3",
+                    "0"
+                ],
+                [
+                    "Month 6",
+                    "1,687,500"
+                ],
+                [
+                    "Month 9",
+                    "0"
+                ],
+                [
+                    "Month 12",
+                    "1,687,500"
+                ],
+                [
+                    "Month 15",
+                    "0"
+                ],
+                [
+                    "Month 18",
+                    "1,687,500"
+                ],
+                [
+                    "Month 21",
+                    "0"
+                ],
+                [
+                    "Month 24",
+                    "1,687,500"
+                ],
+                [
+                    "Month 27",
+                    "0"
+                ],
+                [
+                    "Month 30",
+                    "1,687,500"
+                ],
+                [
+                    "Month 33",
+                    "0"
+                ],
+                [
+                    "Month 36",
+                    "1,687,500"
+                ],
+                [
+                    "Month 39",
+                    "0"
+                ],
+                [
+                    "Month 42",
+                    "1,687,500"
+                ],
+                [
+                    "Month 45",
+                    "0"
+                ],
+                [
+                    "Month 48",
+                    "1,687,500"
+                ]
+            ]
+        }
+    ],
+    "contents": [
+        {
+            "sub_title": [],
+            "sub_info": [],
+            "sub_links": [],
+            "sub_table": []
+        }
+    ]
+}
