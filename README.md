@@ -75,3 +75,12 @@ To run tests, use the following command:
 
 ```bash
 pytest
+```
+
+## Run the App
+
+To run the apps, use the following command:
+
+```bash
+uvicorn app.main:app --reload
+```
