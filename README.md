@@ -77,10 +77,34 @@ To run tests, use the following command:
 pytest
 ```
 
-## Run the App
+## Getting Started
 
-To run the apps, use the following command:
+Follow these steps to run the project locally:
 
-```bash
-uvicorn app.main:app --reload
-```
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/HensemLin/example-fastapi.git
+    ```
+
+2. **Navigate to the Project Directory:**
+
+   ```bash
+   cd example-fastapi
+
+    ```
+
+3. **Install Dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+
+    ```
+
+4. **Start the Development Server:**
+
+   ```bash
+   uvicorn app.main:app --reload
+    ```
+ The application will be available at http://localhost:8000.
+
